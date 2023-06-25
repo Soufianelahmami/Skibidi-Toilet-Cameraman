@@ -46,12 +46,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/HPgSs9e.jpg"},
+  {"desc2":"Introduction to the concept of the Skibidi Toilet Cameraman and their role within the challenge.","photo2":"https://iili.io/HPgS6c7.jpg"},
+  {"desc3":"Exploring potential motivations behind the Skibidi Toilet Cameraman's actions.","photo3":"https://iili.io/HPgS4FS.jpg"},
+  {"desc4":"Discussion of the psychological and emotional consequences experienced by the victims","photo4":"https://iili.io/HPgSPS9.jpg"},
+  {"desc5":"Examination of the potential long-term effects on individuals who have been filmed without consent.","photo5":"https://iili.io/HPgSLAu.jpg"},
+  {"descd":"Analysis of the fundamental right to privacy and its implications in the context of the Skibidi Toilet Cameraman's actions.","photod":"https://iili.io/HPgSQwb.jpg"}
    ]
  
 }
